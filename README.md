@@ -20,6 +20,7 @@ python fcgan_mnist.py
 
 
 # Citation
+If you find this work useful, please cite:
 @inproceedings{li2018fast,
   title={Fast-converging conditional generative adversarial networks for image synthesis},
   author={Li, Chengcheng and Wang, Zi and Qi, Hairong},
