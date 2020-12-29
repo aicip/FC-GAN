@@ -8,11 +8,9 @@ Building on top of the success of generative adversarial networks (GANs), condit
 # Code
 The framework of the code is inherited from Keras-GAN (https://github.com/eriklindernoren/Keras-GAN)
 
-Dependency is listed in requirements.txt.
-
 The code is tested with the following environment.
 
-Tensorflow 1.12; keras 1.2.2; Python 3.6.8
+Tensorflow 1.12; keras 1.2.2; Python 3.6.8; Pillow 8.0.1
 
 // This code will run FC-GAN on MNIST.
 
